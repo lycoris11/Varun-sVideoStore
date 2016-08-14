@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MemberInfo()
+comment1.params=n\ num\ o
+comment1.target=MemberInfo(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getID()
+comment4.params=
+comment4.target=double\ getOwed()
+comment5.params=
+comment5.target=java.util.ArrayList\ getList()
+comment6.params=desired
+comment6.target=boolean\ rent(Dvd)
+comment7.params=rental
+comment7.target=void\ addRental(IndDvd)
+numComments=8

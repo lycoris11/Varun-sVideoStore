@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WriteOut()
+comment1.params=list
+comment1.target=void\ writeOriStock(java.util.ArrayList)
+comment2.params=members
+comment2.target=void\ writeMembers(java.util.ArrayList)
+comment3.params=rental
+comment3.target=void\ writeRentals(java.util.ArrayList)
+comment4.params=stock
+comment4.target=void\ writeStock(java.util.ArrayList)
+numComments=5

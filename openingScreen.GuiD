@@ -1,0 +1,37 @@
+JFrame
+Title,String,untitled ( JFrame )
+Width,int,557
+Height,int,429
+Foreground,int,-13421773
+Background,int,-1118482
+Visible,boolean,true
+Resizable,boolean,true
+[END]
+JPasswordField
+varname,String,passwordBo
+x,int,220
+y,int,195
+width,int,100
+height,int,25
+foreground,Color,-13421773
+background,Color,-1
+Visible,Boolean,true
+Text,String,
+Columns,int,10
+EchoChar,char,*
+ToolTipText,String,$
+[END]
+JLabel
+varname,String,passLabe
+x,int,220
+y,int,165
+width,int,100
+height,int,25
+foreground,Color,-13421773
+background,Color,-1118482
+Visible,Boolean,true
+Text,String,Enter Password
+ToolTipText,String,$
+[END]
+[EOF]
+
